@@ -4,4 +4,4 @@
 
 <P>Para ejecutar debes poner:</P>
 
-```Instal npm react´´´
+```npm install react```
